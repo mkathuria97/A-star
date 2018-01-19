@@ -1,6 +1,4 @@
-/**
- * Created by mayankkathuria on 2/27/17.
- */
+
 public class JsonEdge {
     private String node1;
     private String node2;
