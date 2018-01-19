@@ -1,6 +1,4 @@
-/**
- * Created by mayankkathuria on 2/27/17.
- */
+
 public class JsonGraph {
     JsonCity [] nodes;
     JsonEdge [] edges;
