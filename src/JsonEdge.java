@@ -1,4 +1,3 @@
-
 public class JsonEdge {
     private String node1;
     private String node2;
