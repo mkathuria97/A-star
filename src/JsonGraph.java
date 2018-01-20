@@ -1,4 +1,3 @@
-
 public class JsonGraph {
     JsonCity [] nodes;
     JsonEdge [] edges;
